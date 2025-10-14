@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "CartasTrunfo.C": "cpp"
+        "CartasTrunfo.C": "cpp",
+        "Lógica de comparação entre cartas.C": "cpp"
     }
 }
